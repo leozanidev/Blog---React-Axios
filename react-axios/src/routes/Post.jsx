@@ -12,8 +12,10 @@ const Post = () => {
 
   const getPost = async () => {
     try {
-      console.log(id);
       const response = await blogFetch.get(`/posts/${id}`);
+      const data = response.data;
+
+      setPost(data);
     } catch (error) {
       console.log(error);
     }
