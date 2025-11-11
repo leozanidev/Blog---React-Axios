@@ -1,6 +1,6 @@
 *SOBRE O PROJETO:*
 
-Primeiro projeto utilizando a biblioteca AXIOS, que é uma biblioteca que permite a utilização de requisições de maneira facilitada. Nesse projeto usei AXIOS para requisições com métodos GET, POST, DELETE, PUT...
+Primeiro projeto utilizando a biblioteca AXIOS, que é uma biblioteca que permite a utilização de requisições de maneira facilitada. Nesse projeto usei AXIOS para requisições com métodos GET, POST, DELETE, PUT para consumir dados de uma API.
 Outra funcionalidade utilizada foi a criação de uma "baseURL", diminuindo repetições de código e facilitando possíveis futuras alterações.
 Além disso, utilizei a biblioteca React, com "react-router-dom", para a construção de um site SPA( Single Page Application/Aplicação de Página Única ), ou seja, inibindo a necessidade de recarregar a página durante a navegação pelo site,
 apenas renderizando alguns elementos de uma única página HTML, gerando mais responsividade e agilidade, com a inibição de carregamentos.
