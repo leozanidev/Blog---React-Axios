@@ -18,7 +18,7 @@ e JavaScript, para adicionar interatividade ao projeto. Com os códigos JS foi p
   para o desenvolvedor quanto à estruturação do seu código. Logo, percebe-se que frameworks possuem regras mais rígidas, com uma estrutura completa para o desenvolvimento do projeto,
   sendo mais complexos de aprender a utilizar, já as bibliotecas podem ser usadas em pontos específicos do código e tem menor complexidade em seu uso.
 
-====================================================================================================================================================================================================================================================================================================================================================================
+============================================================================================
 
 2) SPA:
   Single Page Application são aplicações que carregam apenas um documento WEB, ou seja, na primeira vez que o usuário entra na aplicação todos os códigos serão carregados.
@@ -26,10 +26,11 @@ e JavaScript, para adicionar interatividade ao projeto. Com os códigos JS foi p
   O uso de SPA faz com que não haja necessidade de fazer novas requisições ao servidor para carregamento de páginas, isso torna tudo mais rápido para o cliente e mais leve para o servidor.
   O uso de SPA requer que o JS esteja sempre funcionando, ou seja, se o usuário desativar o JS porvavelmente ocrrerão erros, além de dificultar a otimização do SEO( Search Engine Optimization ).
 
-====================================================================================================================================================================================================================================================================================================================================================================
-
+============================================================================================
 3) AXIOS:
    Axio é um cliente HTTP promises based, ou seja, ele faz requisições HTTP para o servidor, para que não tenhamos que configurar toda essa comunicação entre cliente e servidor manualmente.
    Ele é isomófico, o que significa que roda tanto no navegador quanto no Node.Js com o mesmo código base.
-   Para o servidor ele usa o código nativo Node.js ( módulo http ) e no lado do cliente utiliza XMLHttpRequest ( objeto utilizado para interações com o servidor, podendo "buscar" qualquer tipo de dado para a página sem a necessidade de que essa seja recarregada completamente ).
+   Para o servidor ele usa o código nativo Node.js ( módulo http ) e no lado do cliente utiliza XMLHttpRequest ( objeto utilizado para interações com o servidor, podendo "buscar" qualquer tipo de dado para a 
+   página sem a necessidade de que essa seja recarregada completamente ).
    
+============================================================================================
