@@ -35,3 +35,9 @@ e JavaScript, para adicionar interatividade ao projeto. Com os códigos JS foi p
    página sem a necessidade de que essa seja recarregada completamente ).
    
 ============================================================================================
+
+<img width="1918" height="930" alt="novoPost" src="https://github.com/user-attachments/assets/8e0b830a-edec-46dd-a34d-c76beca9df42" />
+<img width="1919" height="842" alt="Captura de tela 2025-11-11 112138" src="https://github.com/user-attachments/assets/b867205f-a068-41c9-aa2c-b9b7e78294b3" />
+<img width="1919" height="930" alt="Captura de tela 2025-11-11 112238" src="https://github.com/user-attachments/assets/0d4495bb-b051-47d1-b58b-4bbca25f11f5" />
+<img width="1919" height="930" alt="Captura de tela 2025-11-11 112006" src="https://github.com/user-attachments/assets/211bd1e6-7bb6-4392-a71f-5575b73a9fc6" />
+
