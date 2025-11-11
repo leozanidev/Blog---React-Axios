@@ -27,7 +27,7 @@ e JavaScript, para adicionar interatividade ao projeto. Com os códigos JS foi p
   O uso de SPA requer que o JS esteja sempre funcionando, ou seja, se o usuário desativar o JS porvavelmente ocrrerão erros, além de dificultar a otimização do SEO( Search Engine Optimization ).
 
 ============================================================================================
-3) AXIOS:
+ 3) AXIOS:
    Axio é um cliente HTTP promises based, ou seja, ele faz requisições HTTP para o servidor, para que não tenhamos que configurar toda essa comunicação entre cliente e servidor manualmente.
    Ele é isomófico, o que significa que roda tanto no navegador quanto no Node.Js com o mesmo código base.
    Para o servidor ele usa o código nativo Node.js ( módulo http ) e no lado do cliente utiliza XMLHttpRequest ( objeto utilizado para interações com o servidor, podendo "buscar" qualquer tipo de dado para a 
